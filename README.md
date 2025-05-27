@@ -27,6 +27,7 @@ VOC_YOLO/
 ├── voc.yaml
 ```
 📊 Dataset label statistics:
+
 <img src="train10/labels.jpg" alt="Labels" width="500"/>---
 
 ## 🧠 Model Overview
@@ -111,7 +112,7 @@ Saved visual outputs in `val10/`:
 
 Example Predictions:
 
-  <img src="val/val_batch2_pred.jpg" width="400"/>
+  <img src="images/val_batch2_pred.jpg" width="400"/>
   <img src="val10/val_batch1_pred.jpg" width="400"/>
 
 📌 Curve Analysis:
