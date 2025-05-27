@@ -117,14 +117,23 @@ Example Predictions:
 📌 Curve Analysis:
 
 F1-Confidence:
+
 <img src="val10/F1_curve.png" width="450"/>
+
 Precision-Confidence:
-<img src="val10/P_curve.png" width="450"/>Precision-Confidence:
+
+<img src="val10/P_curve.png" width="450"/>
+
 Recall-Confidence:
+
 <img src="val10/R_curve.png" width="450"/>
+
 Precision-Recall:
+
 <img src="val10/PR_curve.png" width="450"/>
+
 📌 Confusion Matrix:
+
 <img src="val10/confusion_matrix_normalized.png" width="550"/>
 
 
